@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<h2>Cipher Matrix------</h2>
+<h2>Cipher Matrix</h2>
 <select id="SGs">
   <option value="rsa">RSA</option>
   <option value="dh">DH</option>
